@@ -11,3 +11,6 @@ function destructivelyAddElementToBeginningOfArray(arr, additional){
   
 }
 
+function accessElementInArray(arr, index){
+  return array[index]
+}
